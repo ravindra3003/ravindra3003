@@ -1,4 +1,4 @@
-[![MasterHead](https://www.softsuave.com/blog/wp-content/uploads/2020/11/mobile-app-development-lifecycle-softsuave.gif)]()
+[![MasterHead](https://github.com/ravindra3003/ravindra3003/blob/main/masterhead.gif)]()
 <h1 align="center">Hi 👋, I'm Ravindra Nakrani</h1>
 <!-- <h1 align="center"><img src="https://c.tenor.com/3AhuaFENK-wAAAAi/aaaa.gif" width="60px" height="60px"> I'm Ravindra Nakrani</h1> -->
 <h3 align="center">Passionate software developer graduate with a hands-on, high energy approach, well-developed skills in Agile methodology, and an unapologetically user focused philosophy. Have developed several android, iOS, desktop and web apps</h3>
