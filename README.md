@@ -5,17 +5,19 @@
 
 <img align="right" alt="Coding" width="400" src="./programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/nakraniravindra" target="blank"><img src="https://img.shields.io/twitter/follow/nakraniravindra?logo=twitter&style=for-the-badge" alt="nakraniravindra" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/nakraniravindra" target="blank"><img src="https://img.shields.io/twitter/follow/nakraniravindra?logo=twitter&style=for-the-badge" alt="nakraniravindra" /></a> </p> -->
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something Intresting`
 
-- 🌱 I’m currently learning `Python, R`
+<!-- - 🌱 I’m currently learning `Python, R` -->
 
-- 💬 Ask me about `Anything Javascript and Flutter`
+- 💬 Ask me about `Anything React-native and Flutter`
 
 - 📫 How to reach me `3003.ravindra@gmail.com`
 
-- 👨‍💻 Life Hack: Always be a learner `🔥`
+- 👨‍💻 Life Hack : Always be a learner `🔥`
+
+- 💪 `यत् भावो - तत् भवति`
 
 - ⚡ Fun fact `😉`
 
