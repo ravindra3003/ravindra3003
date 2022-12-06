@@ -24,7 +24,6 @@
 
 ## 🛠️ Technologies and Tools I use:
 
-
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Dart" src="https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=61DAFB" height="25px"/>
@@ -56,6 +55,10 @@
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
+
+## 🏁 Badge:
+<img alt="aws" width="100" src="aws-cloud-quest-cloud-practitioner.png">
+<a href="https://www.credly.com/badges/2113e7b4-5bb3-4bfa-a7aa-9d36122e6d74/public_url" target="_blank">Verify Badge</a>
 
 ## ❤️ Let's get connected:
 
